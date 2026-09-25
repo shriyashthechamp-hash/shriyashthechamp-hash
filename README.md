@@ -14,33 +14,32 @@
 
 ## 🧠 About Me
 
-```python
-class Shriyash:
+<div align="center">
 
-    role = "Product-Focused Full-Stack & AI/ML Engineer"
+<img src="./assets/shriyash_ascii_portrait.gif" width="900" alt="Shriyash ASCII Portrait"/>
 
-    interests = [
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Full-Stack Development",
-        "Intelligent Automation",
-        "Developer Tools",
-        "Product Engineering"
-    ]
+</div>
 
-    currently_learning = [
-        "Advanced DSA",
-        "System Design",
-        "Backend Engineering",
-        "MLOps",
-        "Production AI Systems"
-    ]
+<br>
 
-    philosophy = "Build things that solve real problems."
+<div align="center">
 
-    fun_fact = "I'd rather spend a weekend shipping a prototype than
-                talking about one."
-```
+### `SHRIYASH.DEV`
+
+**AI/ML × Full-Stack × Product Engineering**
+
+`Building AI-powered products • Computer Vision • Intelligent Automation`
+
+</div>
+
+---
+
+I build **AI-powered products, computer vision systems, intelligent automation workflows, and scalable full-stack applications.**
+
+I'm interested in the intersection of **AI × software engineering × real-world products**.
+
+> `Build things that solve real problems.`
+
 
 I build **AI-powered products, computer vision systems, intelligent automation workflows, and scalable full-stack applications.**
 
