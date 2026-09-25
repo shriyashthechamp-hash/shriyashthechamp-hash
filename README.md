@@ -163,12 +163,23 @@ Focused on:
 
 </div>
 
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+</div>
+
+---
 
 # 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shriyash-deshmukh-b74b1937a">
+<a href="https://www.linkedin.com/in/shriyash-deshmukh-b74b1937a/">
 <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
@@ -190,7 +201,7 @@ Focused on:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=00A3FF"/>
 
 </div>
 
