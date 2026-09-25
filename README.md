@@ -10,7 +10,7 @@
 
 </div>
 
-
+---
 
 I build **AI-powered products, computer vision systems, intelligent automation workflows, and scalable full-stack applications.**
 
@@ -18,12 +18,12 @@ I'm especially interested in the space where **AI × software engineering × rea
 
 ### 🚀 What I'm Working Toward
 
-* 🧠 Building production-ready AI/ML systems
-* 👁️ Exploring computer vision & intelligent perception
-* ⚙️ Designing scalable backend architectures
-* 🛠️ Turning prototypes into usable products
-* 🧩 Solving problems through engineering rather than just theory
-* 📈 Preparing for high-impact software & AI/ML internships
+- 🧠 Building production-ready AI/ML systems
+- 👁️ Exploring computer vision & intelligent perception
+- ⚙️ Designing scalable backend architectures
+- 🛠️ Turning prototypes into usable products
+- 🧩 Solving problems through engineering rather than just theory
+- 📈 Preparing for high-impact software & AI/ML internships
 
 ---
 
@@ -37,12 +37,12 @@ I'm especially interested in the space where **AI × software engineering × rea
 
 Building intelligent systems using:
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* NLP
-* Generative AI
-* Model inference pipelines
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- Generative AI
+- Model inference pipelines
 
 </td>
 
@@ -52,12 +52,12 @@ Building intelligent systems using:
 
 Building complete products with:
 
-* React / Next.js
-* Node.js / Express
-* FastAPI
-* REST APIs
-* PostgreSQL / MongoDB
-* Cloud deployments
+- React / Next.js
+- Node.js / Express
+- FastAPI
+- REST APIs
+- PostgreSQL / MongoDB
+- Cloud deployments
 
 </td>
 </tr>
@@ -69,12 +69,12 @@ Building complete products with:
 
 Interested in:
 
-* Object Detection
-* OCR
-* Vehicle / Person Tracking
-* Image Processing
-* Video Analytics
-* Real-time vision systems
+- Object Detection
+- OCR
+- Vehicle / Person Tracking
+- Image Processing
+- Video Analytics
+- Real-time vision systems
 
 </td>
 
@@ -84,12 +84,12 @@ Interested in:
 
 Focused on:
 
-* Automation
-* Developer tools
-* AI agents
-* System design
-* Rapid prototyping
-* Production engineering
+- Automation
+- Developer tools
+- AI agents
+- System design
+- Rapid prototyping
+- Production engineering
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ Focused on:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 
 </div>
 
