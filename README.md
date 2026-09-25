@@ -10,35 +10,6 @@
 
 </div>
 
----
-
-## 🧠 About Me
-
-<div align="center">
-
-<img src="./assets/shriyash_ascii_portrait.gif" width="900" alt="Shriyash ASCII Portrait"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `SHRIYASH.DEV`
-
-**AI/ML × Full-Stack × Product Engineering**
-
-`Building AI-powered products • Computer Vision • Intelligent Automation`
-
-</div>
-
----
-
-I build **AI-powered products, computer vision systems, intelligent automation workflows, and scalable full-stack applications.**
-
-I'm interested in the intersection of **AI × software engineering × real-world products**.
-
-> `Build things that solve real problems.`
 
 
 I build **AI-powered products, computer vision systems, intelligent automation workflows, and scalable full-stack applications.**
