@@ -163,37 +163,6 @@ Focused on:
 
 </div>
 
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriyashthechamp-hash&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shriyashthechamp-hash&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
